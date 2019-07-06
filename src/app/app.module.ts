@@ -9,20 +9,22 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 
-import { LoginPage } from './login/login.page';
-import { SignupPage } from './signup/signup.page';
-import { DashboardPage } from './dashboard/dashboard.page';
-import { OnboardingPage } from './onboarding/onboarding.page';
-import { QuestionairesPage } from './questionaires/questionaires.page';
+import { LoginPage } from './pages/login/login.page';
+import { SignupPage } from './pages/signup/signup.page';
+import { DashboardPage } from './pages/dashboard/dashboard.page';
+import { OnboardingPage } from './pages/onboarding/onboarding.page';
+import { QuestionairesPage } from './pages/questionaires/questionaires.page';
 
 @NgModule({
-  declarations: [AppComponent],
-  entryComponents: [
+  declarations: [
+    AppComponent,
     LoginPage,
-    SignupPage,
-    DashboardPage,
-    OnboardingPage
+    // SignupPage,
+    // DashboardPage,
+    // OnboardingPage,
+    // QuestionairesPage
   ],
+  entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule],
   providers: [
     StatusBar,

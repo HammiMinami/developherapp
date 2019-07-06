@@ -1,0 +1,305 @@
+{
+	"data": [
+		{
+		"question": "Which of the following do you find most difficult to deal with?",
+		"q_id": 1,
+		"option": [{
+				"a_id": 1,
+				"value": "Slackers"
+			},
+			{
+				"a_id": 2,
+				"value": "Being ignored"
+			},
+			{
+				"a_id": 3,
+				"value": "Negativity"
+			},
+			{
+				"a_id": 4,
+				"value": "Unclear information"
+			}
+		]
+	},{
+		"question": "Which road would you most likely take?",
+		"q_id": 2,
+		"option": [{
+				"a_id": 1,
+				"value": "The quickest and surest way to where I'm going. Even if it is dangerous."
+			},
+			{
+				"a_id": 2,
+				"value": "A posh shopping street"
+			},
+			{
+				"a_id": 3,
+				"value": "A grassy lane with dogs and their owners"
+			},
+			{
+				"a_id": 4,
+				"value": "An old street with vintage houses"
+			}
+		]
+	},{
+		"question": "Since childhood, what have you always loved doing?",
+		"q_id": 3,
+		"option": [{
+				"a_id": 1,
+				"value": "Doing schoolwork"
+			},
+			{
+				"a_id": 2,
+				"value": "Talking to people"
+			},
+			{
+				"a_id": 3,
+				"value": "Making friends"
+			},
+			{
+				"a_id": 4,
+				"value": "Playing board games"
+			}
+		]
+	},{
+		"question": "What do you want people to remember you as?",
+		"q_id": 4,
+		"option": [{
+				"a_id": 1,
+				"value": "A successful person"
+			},
+			{
+				"a_id": 2,
+				"value": "An influencial person"
+			},
+			{
+				"a_id": 3,
+				"value": "A good person"
+			},
+			{
+				"a_id": 4,
+				"value": "A smart person"
+			}
+		]
+	},{
+		"question": "You got in trouble for something you did not do. Do you…",
+		"q_id": 5,
+		"option": [{
+				"a_id": 1,
+				"value": "Ignore and prove everyone wrong by working harder "
+			},
+			{
+				"a_id": 2,
+				"value": "Talk to your boss politely and explain your side"
+			},
+			{
+				"a_id": 3,
+				"value": "Ask other members of the team who did it"
+			},
+			{
+				"a_id": 4,
+				"value": "Think about how you could avoid being blamed next time"
+			}
+		]
+	},{
+		"question": "Something isn't going how you planned it. Do you…",
+		"q_id": 6,
+		"option": [{
+				"a_id": 1,
+				"value": "Get frustrated but don't make the same mistakes next time"
+			},
+			{
+				"a_id": 2,
+				"value": "Pretend that everything is going well"
+			},
+			{
+				"a_id": 3,
+				"value": "Ask help from your friends"
+			},
+			{
+				"a_id": 4,
+				"value": "Initiate your back-up plan"
+			}
+		]
+	},{
+		"question": "When do you lose track of time?",
+		"q_id": 7,
+		"option": [{
+				"a_id": 1,
+				"value": "When busy with work"
+			},
+			{
+				"a_id": 2,
+				"value": "When meeting new people"
+			},
+			{
+				"a_id": 3,
+				"value": "When having fun with friends"
+			},
+			{
+				"a_id": 4,
+				"value": "When  learning something new"
+			}
+		]
+	},{
+		"question": "What best describes you?",
+		"q_id": 8,
+		"option": [{
+				"a_id": 1,
+				"value": "I can make things I set my mind to happen"
+			},
+			{
+				"a_id": 2,
+				"value": "I take charge and speak up to be heard"
+			},
+			{
+				"a_id": 3,
+				"value": "I help create positive relationships among people"
+			},
+			{
+				"a_id": 4,
+				"value": " I help people make better "
+			}
+		]
+	},{
+		"question": "What kind of work environment do you want to be in?",
+		"q_id": 9,
+		"option": [{
+				"a_id": 1,
+				"value": "Organized"
+			},
+			{
+				"a_id": 2,
+				"value": "Sociable"
+			},
+			{
+				"a_id": 3,
+				"value": "Comfortable"
+			},
+			{
+				"a_id": 4,
+				"value": "Advanced "
+			}
+		]
+	},{
+		"question": "If you could have a super power, what would you choose?",
+		"q_id": 10,
+		"option": [{
+				"a_id": 1,
+				"value": "Super strength"
+			},
+			{
+				"a_id": 2,
+				"value": "Flight"
+			},
+			{
+				"a_id": 3,
+				"value": "Emotional Manipulation"
+			},
+			{
+				"a_id": 4,
+				"value": "To see the future"
+			}
+		]
+	},{
+		"question": "What would you rather do after a stressful day?",
+		"q_id": 11,
+		"option": [{
+				"a_id": 1,
+				"value": "Read books"
+			},
+			{
+				"a_id": 2,
+				"value": "Scroll through social media"
+			},
+			{
+				"a_id": 3,
+				"value": "Hang out with family or friends"
+			},
+			{
+				"a_id": 4,
+				"value": "Plan the next day"
+			}
+		]
+	},{
+		"question": "How would you describe your interaction with your peers?",
+		"q_id": 12,
+		"option": [{
+				"a_id": 1,
+				"value": "Prefer leading  them"
+			},
+			{
+				"a_id": 2,
+				"value": "Prefer talking about new things"
+			},
+			{
+				"a_id": 3,
+				"value": "Prefer spending time with people who have the same personality"
+			},
+			{
+				"a_id": 4,
+				"value": "Prefer  listening"
+			}
+		]
+	},{
+		"question": "What is the most important thing in life?",
+		"q_id": 13,
+		"option": [{
+				"a_id": 1,
+				"value": "Hardwork"
+			},
+			{
+				"a_id": 2,
+				"value": "Compassion"
+			},
+			{
+				"a_id": 3,
+				"value": "Friendship"
+			},
+			{
+				"a_id": 4,
+				"value": "Lessons"
+			}
+		]
+	},{
+		"question": "What are your strengths?",
+		"q_id": 14,
+		"option": [{
+				"a_id": 1,
+				"value": "Responsible"
+			},
+			{
+				"a_id": 2,
+				"value": "Expressive"
+			},
+			{
+				"a_id": 3,
+				"value": "Emphatic"
+			},
+			{
+				"a_id": 4,
+				"value": "Analytical"
+			}
+		]
+	},{
+		"question": "In a meeting, would you rather…",
+		"q_id": 14,
+		"option": [{
+				"a_id": 1,
+				"value": "Follow the agenda"
+			},
+			{
+				"a_id": 2,
+				"value": "Be the one who does the talking"
+			},
+			{
+				"a_id": 3,
+				"value": "Encourage other team mates to pitch in their ideas"
+			},
+			{
+				"a_id": 4,
+				"value": "See the numbers and statistics"
+			}
+		]
+	}
+]
+}

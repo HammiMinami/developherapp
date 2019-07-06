@@ -4,6 +4,12 @@ import { Platform } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
 
+import { LoginPage } from './pages/login/login.page';
+import { SignupPage } from './pages/signup/signup.page';
+import { DashboardPage } from './pages/dashboard/dashboard.page';
+import { OnboardingPage } from './pages/onboarding/onboarding.page';
+import { QuestionairesPage } from './pages/questionaires/questionaires.page';
+
 @Component({
   selector: 'app-root',
   templateUrl: 'app.component.html'
