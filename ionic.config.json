@@ -1,0 +1,7 @@
+{
+  "name": "dreamit",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
